@@ -1,0 +1,6 @@
+To retrive tweets in GetOldTweets folder run:
+
+python(version 2*) Exporter.py --querysearch --until --maxtweets 100 a
+
+
+Code in Analysis.ipynb
